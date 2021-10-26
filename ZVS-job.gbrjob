@@ -1,0 +1,55 @@
+{
+  "Header":
+  {
+    "GenerationSoftware":
+    {
+      "Vendor":      "KiCad",
+      "Application": "Pcbnew",
+      "Version":     "(5.1.6)-1"
+    },
+    "CreationDate":  "2021-04-13T19:17:39+03:00"
+  },
+  "GeneralSpecs":
+  {
+    "ProjectId":
+    {
+      "Name": "ZVS",
+      "GUID": "5a56532e-6b69-4636-9164-5f7063625858",
+      "Revision": "rev?"
+    },
+    "Size":
+    {
+      "X": 87.100,
+      "Y": 63.100
+    },
+    "LayerNumber": 2,
+    "BoardThickness":  1.600
+  },
+  "DesignRules":
+  [
+    {
+      "Layers": "Outer",
+      "PadToPad":  0.508,
+      "PadToTrack":  0.508,
+      "TrackToTrack":  0.508,
+      "MinLineWidth":  0.508,
+      "TrackToRegion":  1.016,
+      "RegionToRegion":  1.016
+    }
+  ],
+  "FilesAttributes":
+  [
+    {
+      "Path":  "ZVS-B_Cu.gbr",
+      "FileFunction":  "Copper,L2,Bot",
+      "FilePolarity":  "Positive"
+    }
+  ],
+  "MaterialStackup":
+  [
+    {
+      "Type":  "Copper",
+      "Notes":  "Layer B.Cu"
+    }
+  ]
+}
